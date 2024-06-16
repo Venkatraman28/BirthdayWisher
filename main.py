@@ -3,8 +3,8 @@ import random
 import pandas as pd
 import datetime as dt
 
-MY_EMAIL = "venkatsankar2002600@gmail.com"
-PASSWORD = "qoppaipxxbcfvapt"
+MY_EMAIL = ""
+PASSWORD = ""
 BIRTHDAY_CSV = "birthdays.csv"
 CONTENT_TO_REPLACE = "[NAME]"
 
